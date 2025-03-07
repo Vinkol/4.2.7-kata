@@ -9,6 +9,10 @@ body {
     background-color: #ab00002e;
   }
 
+  .hidden {
+    display: none;
+  }
+
   .wrapper {
     margin: auto 0;
     padding: 20px;
@@ -46,7 +50,6 @@ body {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     max-height: 200px;
     overflow-y: auto;
-    display: none;
   }
 
   .autocomplete-item {
@@ -98,3 +101,9 @@ body {
   .remove-btn:hover {
     background-color: #ff3333;
   }
+
+  p {
+    margin: 0;
+  }
+
+  
