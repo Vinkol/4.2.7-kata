@@ -9,10 +9,6 @@ body {
     background-color: #ab00002e;
   }
 
-  .hidden {
-    display: none;
-  }
-
   .wrapper {
     margin: auto 0;
     padding: 20px;
@@ -104,6 +100,10 @@ body {
 
   p {
     margin: 0;
+  }
+
+  .hidden {
+    display: none;
   }
 
   
